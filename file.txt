@@ -11,6 +11,7 @@ initial text
 initial text
 initial text
 feature-1 bug 1
+feature 2 bug fix 1
 initial text
 initial text
 initial text
