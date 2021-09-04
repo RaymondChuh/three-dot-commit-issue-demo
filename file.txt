@@ -20,3 +20,4 @@ feature-1 c1
 feature-1 c1
 feature-1 c2
 feature-1 c2
+feature-1 bug 2
