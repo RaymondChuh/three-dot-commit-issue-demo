@@ -10,3 +10,10 @@ feature-2 c1
 feature-2 c1
 feature-2 c1
 feature-2 c1
+feature-2 c2
+feature-2 c2
+feature-2 c2
+feature-2 c2
+feature-2 c2
+feature-2 c2
+feature-2 c2
