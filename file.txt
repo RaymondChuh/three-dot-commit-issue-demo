@@ -10,6 +10,7 @@ initial text
 initial text
 initial text
 initial text
+feature 2 bug fix 1
 initial text
 initial text
 initial text
